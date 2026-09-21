@@ -17,7 +17,7 @@ namespace AreaCircle
 
     class Circle
     {
-        int _radius;
+        private int _radius;
 
         public Circle(int radius)// konstruktor with parametern radius
         {
